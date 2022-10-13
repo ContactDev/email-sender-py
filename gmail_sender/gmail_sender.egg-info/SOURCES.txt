@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+gmail_sender/__init__.py
+gmail_sender/__main__.py
+gmail_sender/bot.py
+gmail_sender.egg-info/PKG-INFO
+gmail_sender.egg-info/SOURCES.txt
+gmail_sender.egg-info/dependency_links.txt
+gmail_sender.egg-info/requires.txt
+gmail_sender.egg-info/top_level.txt
+gmail_sender/resources/start.png
